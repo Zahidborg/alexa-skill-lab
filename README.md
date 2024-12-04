@@ -12,13 +12,6 @@ Configurar y desarrollar habilidades personalizadas para dispositivos habilitado
 --- 
 <h2 align="center"> Documentación de la práctica</h2>
 
-## Estructura de las carpetas 
-<p align="center">
-  <img src="/img/estructura-carpetas.png" alt="Estructura de carpetas" width="600"/>
-</p>
-
----
-
 ## Pasos para Crear la Skill
 
 ### 1. Crear una cuenta en Amazon Developer
